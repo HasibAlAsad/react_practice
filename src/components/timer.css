@@ -1,0 +1,15 @@
+.App{
+    text-align: center;
+
+}
+
+.container{
+    line-height: 50px;
+    letter-spacing: 5px;
+}
+
+.btn{
+    letter-spacing: 5px;
+    padding: 5px;
+    margin: 5px;
+}
